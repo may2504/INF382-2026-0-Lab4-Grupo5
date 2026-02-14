@@ -1,0 +1,5 @@
+{
+  "name": "Banco Raiz Mobile App",
+  "description": "A high-fidelity mobile banking application replica based on Figma designs, featuring authentication, dashboard, interbank transfers, and transaction success flows.",
+  "requestFramePermissions": []
+}
